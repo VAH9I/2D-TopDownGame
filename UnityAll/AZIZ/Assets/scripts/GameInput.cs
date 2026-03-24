@@ -1,0 +1,50 @@
+using UnityEngine;
+using UnityEngine.EventSystems;
+using UnityEngine.InputSystem;
+using System;
+public class GameInput : MonoBehaviour
+{
+    public static GameInput Instance { get; private set; }
+    private PlayerInputActions playerInputActions;
+    public event EventHandler OnPlayerAttack;
+    public event EventHandler OnPlayerDash;
+    private void Awake()
+    {
+        Instance = this;
+        playerInputActions = new PlayerInputActions();
+        playerInputActions.Enable();
+        playerInputActions.Сombat.Attack.started += PlayerAttack_started;
+        playerInputActions.Player.Dash.performed += PlayerDash_started;
+    }
+
+    private void PlayerAttack_started(InputAction.CallbackContext obj)
+    {
+
+
+        OnPlayerAttack?.Invoke(this, EventArgs.Empty);
+
+    }
+    private void PlayerDash_started(InputAction.CallbackContext obj)
+    {
+        OnPlayerDash?.Invoke(this, EventArgs.Empty);
+    }
+
+    public Vector2 move()
+    {
+        Vector2 targetVelocity = playerInputActions.Player.WASD.ReadValue<Vector2>();
+        return targetVelocity;
+    }
+    public Vector3 GetMousePosition()
+    {
+        Vector3 mousePos = Mouse.current.position.ReadValue();
+        return mousePos;
+    }
+    public void DisableMovement()
+    {
+        playerInputActions.Disable();
+    }
+    private void OnDestroy()
+    {
+        playerInputActions.Сombat.Attack.started -= PlayerAttack_started;
+    }
+}

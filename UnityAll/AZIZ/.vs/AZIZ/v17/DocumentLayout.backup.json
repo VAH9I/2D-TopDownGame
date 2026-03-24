@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJECT\\AZIZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37F5DA60-00DE-EE1B-45AF-ED3CD92DF976}|Assembly-CSharp.csproj|D:\\PROJECT\\AZIZ\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F5DA60-00DE-EE1B-45AF-ED3CD92DF976}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F5DA60-00DE-EE1B-45AF-ED3CD92DF976}|Assembly-CSharp.csproj|D:\\PROJECT\\AZIZ\\assets\\scripts\\playervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F5DA60-00DE-EE1B-45AF-ED3CD92DF976}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F5DA60-00DE-EE1B-45AF-ED3CD92DF976}|Assembly-CSharp.csproj|D:\\PROJECT\\AZIZ\\assets\\scripts\\enemy\\skileton\\skilletonvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F5DA60-00DE-EE1B-45AF-ED3CD92DF976}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\skileton\\skilletonvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F5DA60-00DE-EE1B-45AF-ED3CD92DF976}|Assembly-CSharp.csproj|D:\\PROJECT\\AZIZ\\assets\\scripts\\weapon\\activeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F5DA60-00DE-EE1B-45AF-ED3CD92DF976}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\activeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F5DA60-00DE-EE1B-45AF-ED3CD92DF976}|Assembly-CSharp.csproj|D:\\PROJECT\\AZIZ\\assets\\scripts\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F5DA60-00DE-EE1B-45AF-ED3CD92DF976}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F5DA60-00DE-EE1B-45AF-ED3CD92DF976}|Assembly-CSharp.csproj|D:\\PROJECT\\AZIZ\\assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F5DA60-00DE-EE1B-45AF-ED3CD92DF976}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F5DA60-00DE-EE1B-45AF-ED3CD92DF976}|Assembly-CSharp.csproj|d:\\project\\aziz\\assets\\scripts\\navmashsurfecemenegment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F5DA60-00DE-EE1B-45AF-ED3CD92DF976}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\navmashsurfecemenegment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F5DA60-00DE-EE1B-45AF-ED3CD92DF976}|Assembly-CSharp.csproj|D:\\PROJECT\\AZIZ\\assets\\scripts\\misceleneous\\selfdestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F5DA60-00DE-EE1B-45AF-ED3CD92DF976}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\misceleneous\\selfdestroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F5DA60-00DE-EE1B-45AF-ED3CD92DF976}|Assembly-CSharp.csproj|D:\\PROJECT\\AZIZ\\assets\\scripts\\plants\\destroyplants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F5DA60-00DE-EE1B-45AF-ED3CD92DF976}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\plants\\destroyplants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F5DA60-00DE-EE1B-45AF-ED3CD92DF976}|Assembly-CSharp.csproj|D:\\PROJECT\\AZIZ\\assets\\scripts\\plants\\destroybushvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F5DA60-00DE-EE1B-45AF-ED3CD92DF976}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\plants\\destroybushvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F5DA60-00DE-EE1B-45AF-ED3CD92DF976}|Assembly-CSharp.csproj|D:\\PROJECT\\AZIZ\\assets\\scripts\\misceleneous\\fkashblink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F5DA60-00DE-EE1B-45AF-ED3CD92DF976}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\misceleneous\\fkashblink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMashSurfeceMenegment.cs",
+              "DocumentMoniker": "D:\\PROJECT\\AZIZ\\Assets\\scripts\\NavMashSurfeceMenegment.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\NavMashSurfeceMenegment.cs",
+              "ToolTip": "D:\\PROJECT\\AZIZ\\Assets\\scripts\\NavMashSurfeceMenegment.cs",
+              "RelativeToolTip": "Assets\\scripts\\NavMashSurfeceMenegment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T16:24:11.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SelfDestroy.cs",
+              "DocumentMoniker": "D:\\PROJECT\\AZIZ\\Assets\\scripts\\Misceleneous\\SelfDestroy.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Misceleneous\\SelfDestroy.cs",
+              "ToolTip": "D:\\PROJECT\\AZIZ\\Assets\\scripts\\Misceleneous\\SelfDestroy.cs",
+              "RelativeToolTip": "Assets\\scripts\\Misceleneous\\SelfDestroy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T14:10:40.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DestroyBushVisual.cs",
+              "DocumentMoniker": "D:\\PROJECT\\AZIZ\\Assets\\scripts\\Plants\\DestroyBushVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Plants\\DestroyBushVisual.cs",
+              "ToolTip": "D:\\PROJECT\\AZIZ\\Assets\\scripts\\Plants\\DestroyBushVisual.cs",
+              "RelativeToolTip": "Assets\\scripts\\Plants\\DestroyBushVisual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:52:20.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DestroyPlants.cs",
+              "DocumentMoniker": "D:\\PROJECT\\AZIZ\\Assets\\scripts\\Plants\\DestroyPlants.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Plants\\DestroyPlants.cs",
+              "ToolTip": "D:\\PROJECT\\AZIZ\\Assets\\scripts\\Plants\\DestroyPlants.cs",
+              "RelativeToolTip": "Assets\\scripts\\Plants\\DestroyPlants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:33:56.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FkashBlink.cs",
+              "DocumentMoniker": "D:\\PROJECT\\AZIZ\\Assets\\scripts\\Misceleneous\\FkashBlink.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Misceleneous\\FkashBlink.cs",
+              "ToolTip": "D:\\PROJECT\\AZIZ\\Assets\\scripts\\Misceleneous\\FkashBlink.cs",
+              "RelativeToolTip": "Assets\\scripts\\Misceleneous\\FkashBlink.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwDgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T07:54:43.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerVisual.cs",
+              "DocumentMoniker": "D:\\PROJECT\\AZIZ\\Assets\\scripts\\PlayerVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\PlayerVisual.cs",
+              "ToolTip": "D:\\PROJECT\\AZIZ\\Assets\\scripts\\PlayerVisual.cs",
+              "RelativeToolTip": "Assets\\scripts\\PlayerVisual.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwDIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:55:19.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SkilletonVisual.cs",
+              "DocumentMoniker": "D:\\PROJECT\\AZIZ\\Assets\\scripts\\Enemy\\Skileton\\SkilletonVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Enemy\\Skileton\\SkilletonVisual.cs",
+              "ToolTip": "D:\\PROJECT\\AZIZ\\Assets\\scripts\\Enemy\\Skileton\\SkilletonVisual.cs",
+              "RelativeToolTip": "Assets\\scripts\\Enemy\\Skileton\\SkilletonVisual.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T11:01:13.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActiveWeapon.cs",
+              "DocumentMoniker": "D:\\PROJECT\\AZIZ\\Assets\\scripts\\Weapon\\ActiveWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Weapon\\ActiveWeapon.cs",
+              "ToolTip": "D:\\PROJECT\\AZIZ\\Assets\\scripts\\Weapon\\ActiveWeapon.cs",
+              "RelativeToolTip": "Assets\\scripts\\Weapon\\ActiveWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T15:34:30.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\PROJECT\\AZIZ\\Assets\\scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Player.cs",
+              "ToolTip": "D:\\PROJECT\\AZIZ\\Assets\\scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\scripts\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T14:28:04.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameInput.cs",
+              "DocumentMoniker": "D:\\PROJECT\\AZIZ\\Assets\\scripts\\GameInput.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\GameInput.cs",
+              "ToolTip": "D:\\PROJECT\\AZIZ\\Assets\\scripts\\GameInput.cs",
+              "RelativeToolTip": "Assets\\scripts\\GameInput.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T16:46:41.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "D:\\PROJECT\\AZIZ\\Assets\\scripts\\Utils.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Utils.cs",
+              "ToolTip": "D:\\PROJECT\\AZIZ\\Assets\\scripts\\Utils.cs",
+              "RelativeToolTip": "Assets\\scripts\\Utils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T16:33:52.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
